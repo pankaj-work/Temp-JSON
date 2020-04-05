@@ -1,7 +1,6 @@
 ## Try it
+API URL
+[https://my-json-server.typicode.com/pankaj-work/Temp-JSON](https://my-json-server.typicode.com/pankaj-work/Temp-JSON)
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
-
-## Use your own data
-
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+## ALL SIA Music List
+[https://my-json-server.typicode.com/pankaj-work/Temp-JSON/MusicList](SIA Music List)
