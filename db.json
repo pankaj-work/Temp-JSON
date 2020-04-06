@@ -21,9 +21,10 @@
                 "ImageUrl": "https://i.ytimg.com/vi/t2NgsJrrAyM/maxresdefault.jpg"
             },
             {
+                "ID": "Bird_Set_Free",
                 "Title":"Bird Set Free",
                 "SubTitle":"Bird Set Free · 2015",
-                "ImageUrl": "https://i.ytimg.com/vi/nYh-n7EOtMA/maxresdefault.jpg"
+                "ImageUrl": "https://i.ytimg.com/vi/JBuCyoTuGzw/maxresdefault.jpg"
             },
             {
                 "Title":"Breathe Me",
@@ -55,5 +56,13 @@
         "ImageUrl": "https://i.ytimg.com/vi/t2NgsJrrAyM/maxresdefault.jpg",
         "YoutubeUrl": "https://www.youtube.com/watch?v=ddtX85e0_fw",
         "Lyrics": "I was born in a thunderstorm\r\nI grew up overnight\r\nI played alone\r\nI played on my own\r\nI survived\r\nHey\r\nI wanted everything I never had\r\nLike the love that comes with light\r\nI wore envy and I hated that\r\nBut I survived\r\nI had a one-way ticket to a place where all the demons go\r\nWhere the wind don't change\r\nAnd nothing in the ground can ever grow\r\nNo hope, just lies\r\nAnd you're taught to cry into your pillow\r\nBut I survived\r\nI'm still breathing, I'm still breathing\r\nI'm still breathing, I'm still breathing\r\nI'm alive\r\nI'm alive\r\nI'm alive\r\nI'm alive\r\nI found solace in the strangest place\r\nWay in the back of my mind\r\nI saw my life in a stranger's face\r\nAnd it was mine\r\nI had a one-way ticket to a place where all the demons go\r\nWhere the wind don't change\r\nAnd nothing in the ground can ever grow\r\nNo hope, just lies\r\nAnd you're taught to cry into your pillow\r\nBut I survived\r\nI'm still breathing, I'm still breathing\r\nI'm still breathing, I'm still breathing\r\nI'm alive\r\nI'm alive\r\nI'm alive\r\nI'm alive\r\nYou took it all, but I'm still breathing\r\nYou took it all, but I'm still breathing\r\nYou took it all, but I'm still breathing\r\nYou took it all, but I'm still breathing\r\nYou took it all, but I'm still breathing\r\nYou took it all, but I'm still breathing\r\nYou took it all, but I'm still breathing\r\nYou took it all, but I'm still breathing\r\nI have made every single mistake\r\nThat you could ever possibly make\r\nI took and I took and I took what you gave\r\nBut you never noticed that I was in pain\r\nI knew what I wanted; I went in and got it\r\nDid all the things that you said that I wouldn't\r\nI told you that I would never be forgotten\r\nAnd all in spite of you\r\nAnd I'm still breathing, I'm still breathing\r\nI'm still breathing, I'm still breathing\r\nI'm alive (You took it all, but I'm still breathing)\r\n(You took it all, but I'm still breathing)\r\nI'm alive (You took it all, but I'm still breathing)\r\n(You took it all, but I'm still breathing)\r\nI'm alive (You took it all, but I'm still breathing)\r\n(You took it all, but I'm still breathing)\r\nI'm alive\r\nI'm alive\r\nI'm alive\r\nI'm alive\r\nI'm alive"
+    },
+     "Bird_Set_Free": {
+        "ID": "Bird_Set_Free",
+        "Title":"Bird Set Free",
+        "SubTitle":"Bird Set Free · 2015",
+        "ImageUrl": "https://i.ytimg.com/vi/JBuCyoTuGzw/maxresdefault.jpg",
+        "YoutubeUrl": "https://www.youtube.com/watch?v=JBuCyoTuGzw",
+        "Lyrics": "Clipped wings, I was a broken thing\r\nHad a voice, had a voice but I could not sing\r\nYou would wind me down\r\nI struggled on the ground, oh\r\nSo lost, the line had been crossed\r\nHad a voice, had a voice but I could not talk\r\nYou held me down\r\nI struggle to fly now, oh\r\nBut there's a scream inside that we all try to hide\r\nWe hold on so tight, we cannot deny\r\nEats us alive, oh it eats us alive, oh\r\nYes, there's a scream inside that we all try to hide\r\nWe hold on so tight, but I don't wanna die, no\r\nI don't wanna die, I don't wanna die, yeah\r\nAnd I don't care if I sing off key\r\nI find myself in my melodies\r\nI sing for love, I sing for me\r\nI shout it out like a bird set free\r\nNo, I don't care if I sing off key\r\nI find myself in my melodies\r\nI sing for love, I sing for me\r\nI'll shout it out like a bird set free\r\nI'll shout it out like a bird set free\r\nI'll shout it out like a bird set free\r\nNow I fly, hit the high notes\r\nI have a voice, have a voice, hear me roar tonight\r\nYou held me down\r\nBut I fought back loud, oh\r\nThere's a scream inside that we all try to hide\r\nWe hold on so tight, we cannot deny\r\nEats us alive, oh it eats us alive, oh\r\nYes, there's a scream inside that we all try to hide\r\nWe hold on so tight, but I don't wanna die, no\r\nI don't wanna die, I don't wanna die, yeah\r\nAnd I don't care if I sing off key\r\nI find myself in my melodies\r\nI sing for love, I sing for me\r\nI shout it out like a bird set free\r\nNo, I don't care if I sing off key\r\nI find myself in my melodies\r\nI sing for love, I sing for me\r\nI'll shout it out like a bird set free\r\nI'll shout it out like a bird set free\r\nI'll shout it out like a bird set free\r\nI'll shout it out like a bird set free\r\nI'll shout it out like a bird set free\r\nI'll shout it out like a bird set free"
     }
 }
